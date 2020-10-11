@@ -26,4 +26,3 @@
 * Задание будет считаться принятым после закрытия Pull Request в https://github.com/andpop-mrsu.
 * После принятия задания преподавателем синхронизировать с оригинальным свой локальный репозиторий (`git pull upstream master`), потом репозиторий в своем профиле GitHub (`git push origin master`).
 
-dfdfdfd dfdf
